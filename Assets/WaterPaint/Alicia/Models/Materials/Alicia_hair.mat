@@ -77,7 +77,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 0.5882353, g: 0.5882353, b: 0.5882353, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Diffuse: {r: 0.41509426, g: 0.20167315, b: 0.20167315, a: 0}
     - _OutlineColor: {r: 0.5, g: 0.37317443, b: 0.2757353, a: 1}
     - _RimColor: {r: 0.46323532, g: 0.3810181, b: 0.29292822, a: 1}
